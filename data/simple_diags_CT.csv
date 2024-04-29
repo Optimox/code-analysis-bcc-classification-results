@@ -1,0 +1,201 @@
+;case_id;histological_diagnosis;categorie
+0;fe6d2410-ee4e-e0d8-4eee-aeb5d8e01aaa;BCC;oBCC
+1;71a3a81f-a439-fbe0-39a4-e765e0fb908f;Fibrous papula;Other
+2;1a1e87ad-05a8-3442-a805-a3704234f55a;BCC;oBCC
+3;a88d8765-287a-c272-7a28-fa1472c2ed66;BCC;oBCC
+4;bd4b9ba0-d316-45cb-8dfa-55afb86b2cae;BCC;oBCC
+5,00E+00;e8890dbc-02b6-1b4e-b602-3bdf4e1bd379;BCC;oBCC
+6;25cf7e96-5abc-650e-bc5a-16f50e657cde;BCC;oBCC
+7;02b7ad3b-d622-618c-22d6-61588c610c0b;sBCC;sBCC
+8;846dc1bb-7727-b56f-2777-052c6fb5d2c0;BCC;oBCC
+9;42ce37e6-a485-6fa0-85a4-bf83a06f8ae8;Scar;Other
+1,00E+01;22e92080-5ffc-d5fd-fc5f-bc87fdd561e3;nBCC;oBCC
+11;b66d998f-7d95-e936-957d-31ff36e9e020;sBCC;sBCC
+12;b7a5a68b-db5d-f6b4-5ddb-b7ebb4f614f5;sBCC;sBCC
+13;e9de64ce-6992-c75e-9269-68215ec74094;s&nBCC;oBCC
+14;aa8773ac-9130-8e54-3091-9f39548e6da8;iBCC;oBCC
+15;be8b40d8-b0c9-e4a0-c9b0-ab73a0e418a6;Bowen;SCC
+1,60E+01;e747b806-6c10-dcb9-106c-cdbbb9dce604;Bowen;SCC
+17;32635ca2-4e60-d903-604e-097f03d93245;sniBCC;oBCC
+18;05b6287b-d1d0-4068-a65e-c87ac2840bae;SSM;Melanocytic lesions
+19;b7ee7155-18f8-fd9c-f818-f6249cfdebc4;sBCC;sBCC
+20;40eca314-21cc-4c95-cc21-7327954c7680;nBCC;oBCC
+21;7c5c4ef4-41b2-afa4-b241-df71a4afc594;Dysplastic junctional nevus;Melanocytic lesions
+22;c0991871-f624-d8a1-24f6-ab37a1d87611;Dermal nevus;IDN & SH
+23;63c4282c-d52b-a0c0-2bd5-aaabc0a053c8;Cyst;Other
+24;5dee79ea-16d4-6875-d416-311f756895ba;Cyst;Other
+25;182dfc7f-7efc-18f9-fc7e-a005f918ea7a;Actinic keratosis;AK
+26;af88b782-1b05-18cb-051b-6073cb18b783;Seborrheic Keratosis;Other
+27;835c0439-6467-e94b-6764-848e4be9cab2;Mixed nevus evolving into SSM;Melanocytic lesions
+28;aaf20e6b-f993-593d-93f9-f3c83d59ab2f;Actinic keratosis;AK
+29;cd1480df-708d-3547-8d70-bad44735bb6b;Squamous Cell Carcinoma;SCC
+30;06f69870-92ec-a0cc-ec92-218ecca0a00b;Benign hyperkeratosis;Other
+31;4e8a741c-0bd2-d7c1-d20b-ecafc1d78670; Boweno�d Actinic keratosis;SCC
+32;c60c7ee5-a6eb-af2b-eba6-6b4e2baf6617;snBCC;oBCC
+33;0c25815f-d14f-2716-4fd1-31211627955a;s&iBCC;oBCC
+34;ab8adec2-5999-f21c-9959-bb791cf25173;nBCC;oBCC
+35;1ee89721-99f9-d9a1-f999-0086a1d91de0;s&n&i BCC;oBCC
+3,60E+01;e659a908-d945-0511-45d9-9c6f110567ac;iBCC;oBCC
+37;b93bff6e-0419-6938-1904-1eb138696b1d;nBCC;oBCC
+38;d140c99d-f99d-b7d4-9df9-d22ed4b79bf1;snBCC;oBCC
+39;0629e036-5a39-16ef-395a-8215ef165461;snBCC;oBCC
+40;8ff7e35a-3164-6b5e-6431-75e55e6be569;sBCC;sBCC
+41;510c7043-6df7-2326-f76d-549826236a98;niBCC;oBCC
+42;6a010478-a78d-45ac-8da7-8163ac458a0e;n&miBCC;oBCC
+43;749f4477-9a4a-191e-4a9a-13c31e19a78a;s&nBCC;oBCC
+44;718aa026-0840-9623-4008-1fcb23963a71;MM;Melanocytic lesions
+45;61bf0660-4397-2de8-9743-f321e82d56da;SCC in situ;SCC
+46;1b788561-510f-8d6b-0f51-e4906b8d1ee7;sBCC;sBCC
+47;3539ccfc-e3f1-6340-f1e3-2a864063accf;sBCC;sBCC
+48;f118e59f-7103-1082-0371-e8ef8210ea2c;snBCC;oBCC
+49;f2838430-d999-7942-99d9-0e264279d03b;s&miBCC;oBCC
+50;dcd17540-dc7c-7076-7cdc-e54e76709622;n&sBCC;oBCC
+51;c1990a0b-874a-ddfc-4a87-910efcdd8ac3;n&s(&i)BCC;oBCC
+52;4416fd59-3ff7-e1f0-f73f-e5a8f0e14a41;nBCC;oBCC
+53;b805a514-4ecf-75dc-cf4e-44eddc75f888;Dermal nevus;IDN & SH
+54;cfd1e9a4-ddb7-999d-b7dd-c2969d9990f4;Actinic keratosis;AK
+55;60a49e6d-6e61-c2bd-616e-bd66bdc20dac;Lichenoid keratosis;Other
+56;4c17af24-e77f-b3e8-7fe7-b973e8b37d08;Hyperkeratosis and papillomatosis;Other
+57;64eaa3e0-1911-9947-1119-79934799a915;Blue nevus;Melanocytic lesions
+58;b6b9dfa6-315f-f30a-5f31-84670af352c6;Actinic keratosis;AK
+59;c81e3d85-aa8d-aeca-8daa-904acaaef10b;Squamous Cell Carcinoma;SCC
+60;85554d72-b6c4-7654-c4b6-e8fd547620ff;Squamous Cell Carcinoma;SCC
+61;be30ad8f-13e0-36e5-e013-c018e536875a;Squamous Cell Carcinoma;SCC
+62;c75fe288-de26-f16b-26de-8eae6bf1446f;Squamous Cell Carcinoma;SCC
+63;7a1af228-da31-2a65-31da-c655652a0ae5;Scar;Other
+64;900e18cc-66d4-f5ca-d466-4e2fcaf58d3d;nBCC;oBCC
+65;0a932cfa-35f3-8cb5-f335-798ab58cba9e;mnBCC;oBCC
+66;58ed66d2-7e74-7f12-747e-3087127fb2f2;s&nBCC;oBCC
+67;2009d084-5a75-c63e-755a-a0cf3ec60294;SSM;Melanocytic lesions
+68;80d2edca-4401-0990-0144-51d19009a5b1;nBCC;oBCC
+69;c9ff7f7d-5853-df34-5358-77a834df0ad5;nBCC;oBCC
+70;bcd1e6fe-f926-5d04-26f9-e0ce045d752d;SCC in situ;SCC
+71;fcf99663-7df9-86de-f97d-819cde861850;sBCC;sBCC
+72;7c421072-6ca7-a444-a76c-5af744a4293b;Actinic keratosis;AK
+73;cbad6684-b705-d634-05b7-99a534d66758;Lichenoid keratosis;Other
+74;358a950f-fbe8-4adb-e8fb-2a84db4a22ae;Actinic keratosis + dermal nevus;IDN & SH
+75;33288a54-d3cd-e01e-cdd3-65b21ee08d3c;Squamous Cell Carcinoma;SCC
+76;ba9e9347-4efc-1ffe-fc4e-70e2fe1fa859;Squamous Cell Carcinoma;SCC
+77;7a7c1cbe-f2e6-7637-e6f2-601f37768fd2;s&iBCC & basosquamous;oBCC
+78;b081c27c-f3ac-7db2-acf3-a20db27da4cd;Microinvasive SCC;SCC
+79;3ddc6c1f-d686-8698-86d6-29ae9886479b;Actinic Keratosis;AK
+8,00E+01;14e2208d-66a1-e764-a166-d7e764e78157;Squamous Cell Carcinoma;SCC
+81;b40670fc-91c8-2129-c891-367b292147b1;Actinic Keratosis;AK
+82;ba8fc854-939c-0910-9c93-8f5c1009e74d;Actinic Keratosis & SCC in situ;SCC
+83;5691148a-00fa-f8ae-fa00-aff1aef83a78;Actinic Keratosis;AK
+84;9ea49a25-62ac-1708-ac62-d1da0817d772;Actinic Keratosis;AK
+85;ee5d8fa1-fd3d-9a54-3dfd-94bb549a25b3;sBCC;sBCC
+86;246dbffc-6436-6a06-3664-6d77066aa3e4;sBCC;sBCC
+87;0a118b96-f485-744e-85f4-a5fd4e74b2d2;s&miBCC;oBCC
+88;5aff0587-fa38-313b-38fa-e6963b31f7a8;Seborrheic Keratosis;Other
+89;b931ba01-aa02-9351-02aa-8ee951939a22;Dermal nevus;IDN & SH
+90;50b1004c-9c72-fb8d-729c-5bc78dfbcb8a;SSM in situ not excluded;Melanocytic lesions
+91;c0022648-8f66-3802-668f-8dbc02386c8e;Irritated compound nevus;Melanocytic lesions
+9,20E+01;e39941b4-44a1-0e88-a144-51d9880e32c0;snBCC;oBCC
+93;84f0b4f4-edc2-d255-c2ed-947155d28e23;Melanoma;Melanocytic lesions
+94;72295498-76eb-8661-eb76-fbd9618689d8;Lichenoid keratosis;Other
+95;501906ad-0381-25da-8103-2f69da256277;s&nBCC;oBCC
+96;c0a168e0-836f-5b72-6f83-6b5d725bd165;snBCC;oBCC
+97;06e4fcad-440f-5e6d-0f44-acba6d5eb59d;LPLK;Other
+98;773f7849-84b0-8d42-b084-f26a428d0adf;sBCC;sBCC
+99;733f512a-a85a-42b4-5aa8-95c6b4425ede;SCC;SCC
+100;01db8a5c-131b-b107-1b13-9e7e07b1422a;SCC in situ;SCC
+101;dd92f6cb-6f9b-c39b-9b6f-c7c09bc36909;nBCC;oBCC
+102;d6e6b964-3420-76b8-2034-4306b876ee88;snBCC;oBCC
+103;dd9a82c4-60d8-e32b-d860-aa6e2be3cf3c;sBCC;sBCC
+104;f8c69d1c-d4f6-70be-f6d4-ae6cbe70746c;Molluscum contagiosum;Other
+105;2148b306-5f3b-7a06-3b5f-0674067a0b31;sBCC;sBCC
+106;d1f327b9-7a81-c489-817a-b89989c42a8d;SSM;Melanocytic lesions
+107;ea3d8af2-1219-9940-1912-6af340999985;SSM in situ;Melanocytic lesions
+108;34ed93e6-8c63-48b8-638c-7f94b8485415;Hemangioma/Botryomicoma;Other
+109;2596d3df-c1e3-6368-e3c1-afac68633bd3;SCC microinvasif;SCC
+110;ddba0c91-32d3-b16b-d332-82076bb13fc7;Actinic Keratosis;AK
+111;f80bcb48-f394-ec74-94f3-353474ecc06f;Actinic Keratosis;AK
+112;2c6e492d-2c4d-339f-4d2c-27ff9f333a51;Melanoma in situ;Melanocytic lesions
+113;be306751-b692-7528-92b6-8ac02875dc77;Sebaceous Hyperplasia;IDN & SH
+114;12ec4ae5-0a6d-054b-6d0a-126b4b051601;Squamous Cell Carcinoma;SCC
+115;722ba6dd-0b60-5e1e-600b-59631e5eac5a;SCC in situ;SCC
+116;07f03b79-485a-ca10-5a48-809910caefec;Seborrheic Keratosis;Other
+117;0d1ac4ec-5903-371b-0359-167d1b37eba6;Seborrheic Keratosis;Other
+118;f231247d-b868-d33a-68b8-08603ad3e3ee;Sebaceous adenoma;Other
+119;a14436db-0397-f784-9703-4dfa84f71cf5;Clear cell acanthoma;SCC
+120;e7d321dd-bcd0-4e3d-d0bc-6a373d4eb2a6;Bowen with focal micro invasions;SCC
+121;cc13a015-dc25-cc8a-25dc-e1658acc6e4d;iBCC;oBCC
+1,22E+02;e8607244-9a28-1205-289a-d86205126753;iBCC;oBCC
+123;12b391d1-8b37-8e4f-378b-6e384f8e6113;SCC;SCC
+124;584a112d-12a9-aa9a-a912-65449aaa1db0;Histiocytofibroma;Other
+125;735791ed-3982-4ac2-9880-b7bf41575353;nBCC;oBCC
+126;aa836a1d-db63-ee15-63db-30db15ee4983;Bowen;SCC
+127;b98fd9c1-5dff-fd8c-ff5d-f0cb8cfd0e58;SSM;Melanocytic lesions
+128;f517614c-d1db-d054-dbd1-f49c54d0da2e;SSM BRESLOW 0,9;Melanocytic lesions
+129;4eb99144-f106-3f51-06f1-7715513f797d;Chronic Demodex folliculitis;Other
+130;6cb8b242-cee9-43fa-e9ce-4d8ffa43f492;nBCC;oBCC
+131;b22cec1f-2181-25a0-8121-fd2aa0251433;Compound nevus;Melanocytic lesions
+132;cf649cc9-f84f-48d9-4ff8-7058d9481698;nBCC;oBCC
+133;44f83aa6-e5f4-8232-f4e5-231e328226b8;nBCC;oBCC
+134;d362f5cc-8a8f-8607-8f8a-c86b07865606;nBCC;oBCC
+135;7b3d88de-97d6-0f94-d697-094c940fa45e;Non specific parakeratosis;Other
+136;9390c8e2-3ad4-6f6a-d43a-97db6a6f31f5;Lentigo maligna;Melanocytic lesions
+137;0ec27433-f16d-31c4-6df1-f625c431009a;Actinic Keratosis and melanoderma;AK
+1,38E+02;4e8817f8-8002-4bc3-9747-629f82d9ac55;Moderately differentiated squamous cell carcinoma;SCC
+139;67a93b0b-5630-f3ab-3056-b5c6abf3c973;snBCC;oBCC
+140;5712f742-51a3-6ba5-a351-cbd7a56b092d;Acral arteriovenous haemangioma;Other
+141;be50ec62-c338-d0dd-38c3-d9d1ddd05bf7;Pleomorphic sarcoma;Other
+142;449b94a1-1d46-7a8f-461d-5af98f7a22c1;Seborrheic Keratosis;Other
+143;9a836eeb-49cd-4af4-b252-968588d01b22;Juvenile Xanthogranuloma;Other
+144;3b892eeb-b118-a5b3-18b1-e021b3a5569e;SSM Breslow 0,25;Melanocytic lesions
+145;56da0119-3fc5-62ef-c53f-a754ef62e71c;nBCC;oBCC
+146;ccb9ca80-1162-2911-6211-810c1129596a;Lentigo maligna;Melanocytic lesions
+147;b0378193-3300-a85a-0033-4c325aa83ba4;Lentigo maligna;Melanocytic lesions
+148;0cfa5620-a23a-424e-84b0-66cfcbcf281a;SSM breslow 2,1;Melanocytic lesions
+149;f514e830-fe79-40fc-b533-dc1b90d2c2f5;iBCC;oBCC
+150;fe927ab4-7497-237b-9774-8fff7b23f10e;iBCC;oBCC
+151;530b3fd9-e74f-4bbc-b9a9-e1b67f465557;snBCC;oBCC
+152;c7a0bf13-b71d-0a29-1db7-f1f9290a1e89;Achromic nodular melanoma Breslow 5,2;Melanocytic lesions
+153;b8a48f06-1f90-4c3f-90e0-5a99a073e172;Nodular Melanoma Breslow 3 mm;Melanocytic lesions
+154;74586b3d-3996-41f5-9d9d-bc64d99b36a0;nBCC;oBCC
+155;fb7199f5-4cdc-85b5-dc4c-a5adb5853a98;SSM Breslow 0,55;Melanocytic lesions
+156;76919881-1693-4d9b-9fc4-5709fe9fa2d2;SSM Breslow 1,6;Melanocytic lesions
+157;ba55ffe3-6255-c5e8-5562-95cde8c576c3;SSM Breslow 0,6;Melanocytic lesions
+158;bcd59293-6985-f381-8569-4d3181f31222;SSM 1,6;Melanocytic lesions
+159;1789ef22-9785-13d2-8597-589cd21313ea;SSM insitu;Melanocytic lesions
+160;4d2f8717-5e11-6627-115e-af502766479f;Seborrheic Keratosis;Other
+161;0c89beb2-da23-1040-23da-c4d740100d79;Squamous cell carcinoma;SCC
+162;7f7bb381-9d8a-9760-8a9d-a1966097dab2;Trichilemmoma;Other
+163;97f0cf35-89b3-ce19-b389-dfeb19ce2b29;Melanoma;Melanocytic lesions
+164;47be62aa-527f-7752-7f52-098e52777d63;Lentigo maligna;Melanocytic lesions
+165;f997fedc-a57a-8df1-7aa5-2ae9f18d9e57;BCC;oBCC
+166;8d908b8e-a7c9-6909-c9a7-d42b0969e7a2;BCC;oBCC
+167;4132aea5-f409-5b42-09f4-59be425b7bbc;Compound nevus;Melanocytic lesions
+168;937ac92d-dcb6-9bd2-b6dc-12a6d29beb33;Lichenoid actinic keratosis;Other
+169;629a2468-42f0-91ea-f042-9e1dea915123;Atypical nevus;Melanocytic lesions
+170;5790fa14-1923-e7de-2319-e9badee79292;Trichoblastoma;Other
+171;2703edfd-e468-e5f2-68e4-4c7af2e54ab8;Basosquamous carcinoma;SCC
+172;d68a1a4f-28b3-ce51-b328-aac451ce8a3e;nBCC;oBCC
+173;a8fe873d-22e7-add1-e722-ba6fd1ad894d;SCC microinvasive;SCC
+174;264bb210-589a-330b-9a58-2fa30b33a64f;Non specific hyperkeratosis;Other
+175;b549aaa8-babd-dd16-bdba-6b5816dd2a36;Dermal nevus;IDN & SH
+176;71f07f28-f0f6-d3c9-f6f0-bc35c9d386d2;Lentigo maligna;Melanocytic lesions
+177;5f228b0c-6526-0521-2665-98712105ab50;Compound nevus;Melanocytic lesions
+178;c94fc3a7-2633-66e0-3326-1baae066bf43;Leishmania;Other
+179;86db2cc5-04f7-f556-f704-756056f50a7e;linfoma B della zona marginale;Other
+180;04052879-e250-b086-50e2-459986b064e2;miBCC;oBCC
+181;205d1cae-956f-fc4f-6f95-26cc4ffc8517;Dermatofibroma;Other
+182;cae67cf0-25ab-2715-ab25-5cde1527c680;miBCC;oBCC
+183;cd9c1bbb-96df-d06f-df96-5c3f6fd01889;Bowen;SCC
+184;7faf7027-b9eb-d85d-ebb9-66485dd80f1e;Clear cell acanthoma;SCC
+185;83b096b3-b709-1e8e-09b7-31298e1e508d;Lymphangiectasia on lichen sclerosus;Other
+186;5154ec23-2ea8-33c7-a82e-dd63c733fdf5;Sebaceous Hyperplasia;IDN & SH
+187;250c8672-8972-bf09-7289-b52009bff573;Junctional nevus;Melanocytic lesions
+188;b368411a-d442-16c7-42d4-969ac716cec6;Lichen scleroatrophicus ;Other
+189;151efd6d-7e52-449e-527e-a1f19e44e3df;Centralfollicular lymphoma;Other
+190;cbdca1aa-2506-b515-0625-b4e715b574a1;Actinic Keratosis;AK
+191;e1e33a67-4714-2493-1447-ca72932418ed;nBCC;oBCC
+192;af36fe60-d717-18d2-17d7-c56dd2189264;miBCC;oBCC
+193;27560430-9361-8c3f-6193-669b3f8cbb7f;Dermal nevus;IDN & SH
+194;13be183b-e64a-8e68-4ae6-abe6688e3ad3;Fibrosis, hyperpigmentation of the basal layer;Other
+195;278100a3-65ec-e9b0-ec65-93adb0e9e680;Seborrheic Keratosis;Other
+196;1cea2c56-9831-9f22-3198-7322229f69cd;BCC;oBCC
+197;c2f64b11-8d45-0ef1-458d-2664f10e61d0;Sebaceoma  ;Other
+198;0c9c3a30-2cdb-7648-db2c-68ca48760c08;Clear cell acanthoma;SCC
+199;d706af14-4439-ca6f-3944-e4776fca1c7b;Solar Lentigo;Melanocytic lesions
